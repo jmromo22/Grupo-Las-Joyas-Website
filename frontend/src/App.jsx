@@ -6,7 +6,7 @@ import HomePage from './pages/HomePage';
 import { Route, Routes } from 'react-router-dom';
 import ContactPage from './pages/ContactPage';
 import GalleryPage from './pages/GalleryPage';
-import NavBar from './components/NavBar';
+import NavBar from './components/NavBar/NavBar';
 
 function App() {
 	return (
