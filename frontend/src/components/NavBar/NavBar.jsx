@@ -16,9 +16,9 @@ export default function NavBar() {
 				<Link to='/contact'>Contact</Link>
 			</div>
 			<div className={styles.socials}>
-				<Link to='https://www.instagram.com/lasjoyas14k/?hl=en'>Home</Link>
-				<Link to='https://www.facebook.com/profile.php?id=100009084781103'>Gallery</Link>
-				<Link to='https://yelp.to/yXIJAC2Dpt'>Contact</Link>
+				<Link to='https://www.instagram.com/lasjoyas14k/?hl=en'>Insta</Link>
+				<Link to='https://www.facebook.com/profile.php?id=100009084781103'>Facebook</Link>
+				<Link to='https://yelp.to/yXIJAC2Dpt'>Yelp</Link>
 			</div>
 		</nav>
 	);
