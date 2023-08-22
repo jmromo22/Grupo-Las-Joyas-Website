@@ -28,5 +28,19 @@
 
 }
 .socials {
+    display: flex;
+    gap: 1em;
+}
 
+.socials a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30px; 
+    height: 30px; 
+}
+
+.socials img {
+    width: 100%;
+    height: 100%;
 }
